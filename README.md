@@ -1,4 +1,4 @@
-Hi, I'm Spyda <br>
+👋Hi, I'm Spyda😎 <br>
 Curious mind exploring the intersection of AI, automation, and creativity. I build things that think — from chatbots to virtual assistants — blending logic, design, and a hint of imagination.
 
 💻 Skills & Interests
