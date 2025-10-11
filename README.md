@@ -1,15 +1,15 @@
 👋Hi, I'm Spyda😎 <br>
-Curious mind exploring the intersection of AI, automation, and creativity. I build things that think — from chatbots to virtual assistants — blending logic, design, and a hint of imagination.
+Just a curious mind exploring the intersection of AI, automation, and creativity. I build things that think — from chatbots to virtual assistants — blending logic, design, and a hint of imagination.
 
 💻 Skills & Interests
 
-Building intelligent systems with HTML, CSS, JS, C and Java
+🧱Building intelligent systems with HTML, CSS, JS, C and Java
 
-Designing conversational AIs like Nova and Autumn
+🎨Designing conversational AIs like Nova and Autumn
 
-Experimenting with automation, smart devices, and robotics
+🧪Experimenting with automation, smart devices, and robotics
 
-Always learning, always improving
+📚Always learning, always improving
 
 🚀 Vision
 To merge human creativity with machine intelligence — crafting tools that understand, not just respond.
