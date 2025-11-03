@@ -3,7 +3,7 @@ Just a curious mind exploring the intersection of AI, automation, and creativity
 
 💻 Skills & Interests
 
-🧱Building intelligent systems with HTML, CSS, JS, C and Java
+🧱Building intelligent systems with HTML, CSS, JS, C, Java and Python
 
 🎨Designing conversational AIs like Nova and Autumn
 
